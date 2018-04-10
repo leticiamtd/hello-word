@@ -1,3 +1,4 @@
 # hello-word
 
-Faço Tecnologia da Informação.
+<<<<< README-EDITS
+Curso Tecnologia da Informação.
